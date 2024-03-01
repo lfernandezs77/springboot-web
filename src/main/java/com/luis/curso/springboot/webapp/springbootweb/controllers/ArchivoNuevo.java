@@ -5,4 +5,5 @@ public class ArchivoNuevo {
     boolean algo2 = true;
     boolean algo3 = true;
     boolean algo4 = true;
+    String mensaje ="estaba haciendo algo version 2";
 }
